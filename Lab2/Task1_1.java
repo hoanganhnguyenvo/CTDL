@@ -53,9 +53,13 @@ public class Task1_1 {
 		}
 
 		public static void main(String[] args) {
-			int n = 3;
+			int n = 5;
 			System.out.println(getSn1(n));
+
 			System.out.println(getSn2(n));
+
 			System.out.println(getSn3(n));
+
 			System.out.println(getSn4(n, 2));
-		}}
+		}
+}
